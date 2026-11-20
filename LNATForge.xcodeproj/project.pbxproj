@@ -1,0 +1,507 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		068CF845CA6F4302908BB87D /* MockReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 640E14F273961506BE1E9913 /* MockReviewView.swift */; };
+		0E0FEC46DEEDB2A6087CB037 /* EssaysTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9F5ED95980B1542BFF0D76 /* EssaysTabView.swift */; };
+		31B6F46773F7E7981198FDFE /* LNATForgeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC23D18DA921115AC9539AE /* LNATForgeApp.swift */; };
+		44F609EC194B91607A419BC6 /* Haptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033A4AAF892F7FB6A8577C0A /* Haptics.swift */; };
+		60FE86B64DD4F9FFE1AAAAA6 /* RootTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A9273775A1A3AF12DAA927 /* RootTabView.swift */; };
+		691F4B9578883D2E229843AD /* LNATTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5FE47D6EB1225DCF236C272 /* LNATTheme.swift */; };
+		6AC5B76A8A3687C79EEFE4B0 /* SwiftDataModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120EC8A4203AF89F4F9BC3EC /* SwiftDataModels.swift */; };
+		8466CF854955E5CC371C3CC0 /* StoryCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8326192AD79C2388B3B90911 /* StoryCardView.swift */; };
+		8B49898D9381B1D2DE0190A4 /* ReviewTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56CD19DA180E11DDDEFB45DC /* ReviewTabView.swift */; };
+		92C3B51ECBAF10499AC47C2E /* FormattedBlockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A014BDAE0A5CF45EE0050106 /* FormattedBlockView.swift */; };
+		AA1100010001000100010002 /* NavigationPopGestureSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1100010001000100010001 /* NavigationPopGestureSupport.swift */; };
+		AA1100020002000200020002 /* CreditPopupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1100020002000200020001 /* CreditPopupView.swift */; };
+		AA1100030003000300030002 /* PassageReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1100030003000300030001 /* PassageReaderView.swift */; };
+		A04D5A0383A924A8F584F00E /* mockTests.json in Resources */ = {isa = PBXBuildFile; fileRef = A64359F6D49E5AFEB4B7CADE /* mockTests.json */; };
+		A223CCC17AFDEA18AE951A44 /* DiagnosticsEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AF5A14A00E431BFBF06A1D /* DiagnosticsEngine.swift */; };
+		B4746DE6778D64D0248C72D9 /* ExamBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A93749639DB0AC462C868A /* ExamBuilder.swift */; };
+		B6CD6EFE0670BC37EC6320A0 /* ContentStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9FFF50A49A23467B01BAC1A /* ContentStore.swift */; };
+		B9232F00250F485599F30AA4 /* section-b-prompts.json in Resources */ = {isa = PBXBuildFile; fileRef = 6A1DFA9F172AA6C0885BFC15 /* section-b-prompts.json */; };
+		C318135993DD222F7452ADBC /* ProgressTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B429898698CE11C6CC784B2D /* ProgressTabView.swift */; };
+		D6C264582C1E5EBB6DC1B610 /* QuestionGridSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB7C82EEAB9F9F4E33246B1 /* QuestionGridSheet.swift */; };
+		D711F147C123884B3F2D0B62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E5DC497980D73EDE5F062CA /* Assets.xcassets */; };
+		DA069BB96829BE9E8E15E249 /* BackupService.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD588D51ED8221DF0E142B03 /* BackupService.swift */; };
+		DA60046759108FD27DB3B4FF /* MockExamRunnerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A689480EFE576F378E658B52 /* MockExamRunnerView.swift */; };
+		DABA78D4F37EBBB8D5011602 /* StudyPersistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44EE43E0B0893C2EFEAC6A44 /* StudyPersistence.swift */; };
+		E2B696ED301F67E32CBAC9D0 /* LNATContentModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F75CF2D331F6B03C0D33D3C /* LNATContentModels.swift */; };
+		EBFD15EF28A79C08D0148971 /* storyDeck.json in Resources */ = {isa = PBXBuildFile; fileRef = 52175247971D72029A86F34A /* storyDeck.json */; };
+		EC10310F19B32369C98B3D0D /* SettingsSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1D4389E87D816763C544263 /* SettingsSheetView.swift */; };
+		FC7B748F05072FEA2BE13BC6 /* LearnTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490399EEDEA9D92BA10D4E6C /* LearnTabView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		033A4AAF892F7FB6A8577C0A /* Haptics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haptics.swift; sourceTree = "<group>"; };
+		0AF985757B7935DEFDAFCD91 /* LNATForge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LNATForge.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0BC23D18DA921115AC9539AE /* LNATForgeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LNATForgeApp.swift; sourceTree = "<group>"; };
+		120EC8A4203AF89F4F9BC3EC /* SwiftDataModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDataModels.swift; sourceTree = "<group>"; };
+		26A9273775A1A3AF12DAA927 /* RootTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootTabView.swift; sourceTree = "<group>"; };
+		3AB7C82EEAB9F9F4E33246B1 /* QuestionGridSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionGridSheet.swift; sourceTree = "<group>"; };
+		3E5DC497980D73EDE5F062CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		44EE43E0B0893C2EFEAC6A44 /* StudyPersistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyPersistence.swift; sourceTree = "<group>"; };
+		490399EEDEA9D92BA10D4E6C /* LearnTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnTabView.swift; sourceTree = "<group>"; };
+		52175247971D72029A86F34A /* storyDeck.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = storyDeck.json; sourceTree = "<group>"; };
+		56CD19DA180E11DDDEFB45DC /* ReviewTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewTabView.swift; sourceTree = "<group>"; };
+		57AF5A14A00E431BFBF06A1D /* DiagnosticsEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagnosticsEngine.swift; sourceTree = "<group>"; };
+		640E14F273961506BE1E9913 /* MockReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockReviewView.swift; sourceTree = "<group>"; };
+		6A1DFA9F172AA6C0885BFC15 /* section-b-prompts.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "section-b-prompts.json"; sourceTree = "<group>"; };
+		6F75CF2D331F6B03C0D33D3C /* LNATContentModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LNATContentModels.swift; sourceTree = "<group>"; };
+		7C9F5ED95980B1542BFF0D76 /* EssaysTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EssaysTabView.swift; sourceTree = "<group>"; };
+		8326192AD79C2388B3B90911 /* StoryCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryCardView.swift; sourceTree = "<group>"; };
+		9E9121917B7391C119D24308 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A014BDAE0A5CF45EE0050106 /* FormattedBlockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormattedBlockView.swift; sourceTree = "<group>"; };
+		A5FE47D6EB1225DCF236C272 /* LNATTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LNATTheme.swift; sourceTree = "<group>"; };
+		A64359F6D49E5AFEB4B7CADE /* mockTests.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = mockTests.json; sourceTree = "<group>"; };
+		A689480EFE576F378E658B52 /* MockExamRunnerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockExamRunnerView.swift; sourceTree = "<group>"; };
+		AA1100010001000100010001 /* NavigationPopGestureSupport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationPopGestureSupport.swift; sourceTree = "<group>"; };
+		AA1100020002000200020001 /* CreditPopupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditPopupView.swift; sourceTree = "<group>"; };
+		AA1100030003000300030001 /* PassageReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassageReaderView.swift; sourceTree = "<group>"; };
+		B429898698CE11C6CC784B2D /* ProgressTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressTabView.swift; sourceTree = "<group>"; };
+		BD588D51ED8221DF0E142B03 /* BackupService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackupService.swift; sourceTree = "<group>"; };
+		C6A93749639DB0AC462C868A /* ExamBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamBuilder.swift; sourceTree = "<group>"; };
+		D1D4389E87D816763C544263 /* SettingsSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsSheetView.swift; sourceTree = "<group>"; };
+		D9FFF50A49A23467B01BAC1A /* ContentStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentStore.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E223AAB79D6CEA328A23D440 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		068CEA2C4E24F172A26A7DF2 /* Essays */ = {
+			isa = PBXGroup;
+			children = (
+				7C9F5ED95980B1542BFF0D76 /* EssaysTabView.swift */,
+			);
+			path = Essays;
+			sourceTree = "<group>";
+		};
+		09C58B7302EDA1DA079F4969 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0AF985757B7935DEFDAFCD91 /* LNATForge.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0D5C84167A709655D87467BB /* Review */ = {
+			isa = PBXGroup;
+			children = (
+				C6A93749639DB0AC462C868A /* ExamBuilder.swift */,
+				A014BDAE0A5CF45EE0050106 /* FormattedBlockView.swift */,
+				A689480EFE576F378E658B52 /* MockExamRunnerView.swift */,
+				640E14F273961506BE1E9913 /* MockReviewView.swift */,
+				AA1100030003000300030001 /* PassageReaderView.swift */,
+				3AB7C82EEAB9F9F4E33246B1 /* QuestionGridSheet.swift */,
+				56CD19DA180E11DDDEFB45DC /* ReviewTabView.swift */,
+			);
+			path = Review;
+			sourceTree = "<group>";
+		};
+		2038AF481E255200EFF756E8 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				EE875883322CD3B6037D48DD /* App */,
+				81F4011CC60DA68102397DF3 /* Models */,
+				5E41346E94F0DF17A6D2F7B1 /* Theme */,
+				D6D22195E9E184CA1421E67C /* Services */,
+				38AA73AC4BECA972495FAF7E /* Views */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		3550D91DC87EE55DBB84EDCE = {
+			isa = PBXGroup;
+			children = (
+				2038AF481E255200EFF756E8 /* Sources */,
+				E1B0000C017351FF20E4B009 /* Resources */,
+				09C58B7302EDA1DA079F4969 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		38AA73AC4BECA972495FAF7E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				C2465A58D4C0AA68F6209770 /* Learn */,
+				0D5C84167A709655D87467BB /* Review */,
+				D07FED3A43F83C2A3224C1CC /* Progress */,
+				068CEA2C4E24F172A26A7DF2 /* Essays */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5E41346E94F0DF17A6D2F7B1 /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				033A4AAF892F7FB6A8577C0A /* Haptics.swift */,
+				A5FE47D6EB1225DCF236C272 /* LNATTheme.swift */,
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		81F4011CC60DA68102397DF3 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D9FFF50A49A23467B01BAC1A /* ContentStore.swift */,
+				6F75CF2D331F6B03C0D33D3C /* LNATContentModels.swift */,
+				120EC8A4203AF89F4F9BC3EC /* SwiftDataModels.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		C2465A58D4C0AA68F6209770 /* Learn */ = {
+			isa = PBXGroup;
+			children = (
+				490399EEDEA9D92BA10D4E6C /* LearnTabView.swift */,
+				8326192AD79C2388B3B90911 /* StoryCardView.swift */,
+			);
+			path = Learn;
+			sourceTree = "<group>";
+		};
+		D07FED3A43F83C2A3224C1CC /* Progress */ = {
+			isa = PBXGroup;
+			children = (
+				B429898698CE11C6CC784B2D /* ProgressTabView.swift */,
+				D1D4389E87D816763C544263 /* SettingsSheetView.swift */,
+			);
+			path = Progress;
+			sourceTree = "<group>";
+		};
+		D6D22195E9E184CA1421E67C /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				BD588D51ED8221DF0E142B03 /* BackupService.swift */,
+				57AF5A14A00E431BFBF06A1D /* DiagnosticsEngine.swift */,
+				44EE43E0B0893C2EFEAC6A44 /* StudyPersistence.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		E1B0000C017351FF20E4B009 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				52175247971D72029A86F34A /* storyDeck.json */,
+				A64359F6D49E5AFEB4B7CADE /* mockTests.json */,
+				6A1DFA9F172AA6C0885BFC15 /* section-b-prompts.json */,
+				3E5DC497980D73EDE5F062CA /* Assets.xcassets */,
+				9E9121917B7391C119D24308 /* Info.plist */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		EE875883322CD3B6037D48DD /* App */ = {
+			isa = PBXGroup;
+			children = (
+				AA1100020002000200020001 /* CreditPopupView.swift */,
+				0BC23D18DA921115AC9539AE /* LNATForgeApp.swift */,
+				AA1100010001000100010001 /* NavigationPopGestureSupport.swift */,
+				26A9273775A1A3AF12DAA927 /* RootTabView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6E1DDC91739F5F8405B374D4 /* LNATForge */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 56A5AE6A5C13465025C1D503 /* Build configuration list for PBXNativeTarget "LNATForge" */;
+			buildPhases = (
+				54CE00C7B2AB75DDB5C5252F /* Sources */,
+				E223AAB79D6CEA328A23D440 /* Frameworks */,
+				6741CE664151DB15ED7CD93B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LNATForge;
+			productName = LNATForge;
+			productReference = 0AF985757B7935DEFDAFCD91 /* LNATForge.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3F93E47149C1683C6A595CBA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 2720;
+				TargetAttributes = {
+					6E1DDC91739F5F8405B374D4 = {
+						CreatedOnToolsVersion = 15.4;
+					};
+				};
+			};
+			buildConfigurationList = B096892054013173296C505E /* Build configuration list for PBXProject "LNATForge" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3550D91DC87EE55DBB84EDCE;
+			productRefGroup = 09C58B7302EDA1DA079F4969 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6E1DDC91739F5F8405B374D4 /* LNATForge */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6741CE664151DB15ED7CD93B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EBFD15EF28A79C08D0148971 /* storyDeck.json in Resources */,
+				A04D5A0383A924A8F584F00E /* mockTests.json in Resources */,
+				B9232F00250F485599F30AA4 /* section-b-prompts.json in Resources */,
+				D711F147C123884B3F2D0B62 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		54CE00C7B2AB75DDB5C5252F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				31B6F46773F7E7981198FDFE /* LNATForgeApp.swift in Sources */,
+				AA1100010001000100010002 /* NavigationPopGestureSupport.swift in Sources */,
+				AA1100020002000200020002 /* CreditPopupView.swift in Sources */,
+				60FE86B64DD4F9FFE1AAAAA6 /* RootTabView.swift in Sources */,
+				B6CD6EFE0670BC37EC6320A0 /* ContentStore.swift in Sources */,
+				E2B696ED301F67E32CBAC9D0 /* LNATContentModels.swift in Sources */,
+				6AC5B76A8A3687C79EEFE4B0 /* SwiftDataModels.swift in Sources */,
+				DA069BB96829BE9E8E15E249 /* BackupService.swift in Sources */,
+				A223CCC17AFDEA18AE951A44 /* DiagnosticsEngine.swift in Sources */,
+				DABA78D4F37EBBB8D5011602 /* StudyPersistence.swift in Sources */,
+				44F609EC194B91607A419BC6 /* Haptics.swift in Sources */,
+				691F4B9578883D2E229843AD /* LNATTheme.swift in Sources */,
+				0E0FEC46DEEDB2A6087CB037 /* EssaysTabView.swift in Sources */,
+				FC7B748F05072FEA2BE13BC6 /* LearnTabView.swift in Sources */,
+				8466CF854955E5CC371C3CC0 /* StoryCardView.swift in Sources */,
+				C318135993DD222F7452ADBC /* ProgressTabView.swift in Sources */,
+				EC10310F19B32369C98B3D0D /* SettingsSheetView.swift in Sources */,
+				B4746DE6778D64D0248C72D9 /* ExamBuilder.swift in Sources */,
+				92C3B51ECBAF10499AC47C2E /* FormattedBlockView.swift in Sources */,
+				DA60046759108FD27DB3B4FF /* MockExamRunnerView.swift in Sources */,
+				068CF845CA6F4302908BB87D /* MockReviewView.swift in Sources */,
+				AA1100030003000300030002 /* PassageReaderView.swift in Sources */,
+				D6C264582C1E5EBB6DC1B610 /* QuestionGridSheet.swift in Sources */,
+				8B49898D9381B1D2DE0190A4 /* ReviewTabView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		26E401D4A77E0A76FA1D9CE5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 6YWQHJSZ5R;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5A90E6623C7243ADD28A9EAC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lnatforge.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		D7EA129AA5D3F43416979E97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 6YWQHJSZ5R;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		E629AA4BB41450B83D758A9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lnatforge.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		56A5AE6A5C13465025C1D503 /* Build configuration list for PBXNativeTarget "LNATForge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E629AA4BB41450B83D758A9A /* Debug */,
+				5A90E6623C7243ADD28A9EAC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B096892054013173296C505E /* Build configuration list for PBXProject "LNATForge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7EA129AA5D3F43416979E97 /* Debug */,
+				26E401D4A77E0A76FA1D9CE5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3F93E47149C1683C6A595CBA /* Project object */;
+}

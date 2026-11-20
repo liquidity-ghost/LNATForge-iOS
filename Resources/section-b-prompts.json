@@ -1,0 +1,116 @@
+[
+    {
+        "id": "sb-1",
+        "prompt": "In a Western society arranged marriages should no longer be tolerated. Discuss.",
+        "category": "Culture & Rights",
+        "keyTension": "Individual autonomy and the prevention of coercion versus cultural pluralism and the freedom to consent to traditional family arrangements."
+    },
+    {
+        "id": "sb-2",
+        "prompt": "'Modern society is too dependent on debt: we should all pay our way.' Do you agree?",
+        "category": "Economics & Tech",
+        "keyTension": "The economic growth and opportunity enabled by credit and leverage versus the systemic fragility and personal vulnerability created by over-indebtedness."
+    },
+    {
+        "id": "sb-3",
+        "prompt": "The Danish cartoons of the Prophet Mohammed should never have been published. Do you agree?",
+        "category": "Culture & Rights",
+        "keyTension": "The protection of free expression and political satire versus religious sensitivity, social cohesion, and the responsibility to avoid gratuitous offense."
+    },
+    {
+        "id": "sb-4",
+        "prompt": "The internet and instant communication technologies are profoundly changing our world for the better. Do you agree?",
+        "category": "Economics & Tech",
+        "keyTension": "Democratized access to information and global connectivity versus misinformation, privacy erosion, and social fragmentation."
+    },
+    {
+        "id": "sb-5",
+        "prompt": "What is your response to the view that the purpose of education is to prepare young people for the world of work?",
+        "category": "Politics & Society",
+        "keyTension": "An instrumental, market-driven model of education focused on employability versus a humanist vision of learning for civic virtue, critical inquiry, and personal flourishing."
+    },
+    {
+        "id": "sb-6",
+        "prompt": "In what circumstances should abortion be permitted and why?",
+        "category": "Law & Ethics",
+        "keyTension": "Bodily autonomy and reproductive freedom versus the moral status of the fetus and the state's interest in protecting potential human life."
+    },
+    {
+        "id": "sb-7",
+        "prompt": "Would you agree that travel and tourism exploit poorer nations and benefit only the richer ones?",
+        "category": "Economics & Tech",
+        "keyTension": "Foreign currency inflows, job creation, and economic development in host nations versus environmental degradation, cultural commodification, and asymmetric profit extraction."
+    },
+    {
+        "id": "sb-8",
+        "prompt": "The Olympic games, today, are less a test of personal athleticism and more a measure of national investment and authority. Do you agree?",
+        "category": "Politics & Society",
+        "keyTension": "The celebration of individual human excellence and sporting meritocracy versus state-sponsored soft power, geopolitical prestige, and resource inequality."
+    },
+    {
+        "id": "sb-9",
+        "prompt": "Wearing a burkha in Western countries is just as offensive as wearing a bikini in Arab countries. Do you agree?",
+        "category": "Culture & Rights",
+        "keyTension": "Moral relativism and reciprocal respect for local social norms versus universal standards of personal expression, secularism, and religious freedom."
+    },
+    {
+        "id": "sb-10",
+        "prompt": "'Women now have the chance to achieve anything they want.' How do you respond to this statement?",
+        "category": "Culture & Rights",
+        "keyTension": "Formal legal equality and expanded modern opportunities versus persistent structural barriers, unequal care burdens, and implicit socio-economic biases."
+    },
+    {
+        "id": "sb-11",
+        "prompt": "How should judges be appointed?",
+        "category": "Law & Ethics",
+        "keyTension": "Democratic accountability and representativeness in judicial selection versus judicial independence, meritocratic impartiality, and insulation from political patronage."
+    },
+    {
+        "id": "sb-12",
+        "prompt": "Make the best case you can for public funding of the arts.",
+        "category": "Culture & Rights",
+        "keyTension": "Cultural enrichment, universal accessibility, and non-commercial artistic innovation versus fiscal restraint and market-driven consumer preference."
+    },
+    {
+        "id": "sb-13",
+        "prompt": "Does it matter if some animal and plant species die out?",
+        "category": "Law & Ethics",
+        "keyTension": "The intrinsic moral value of biodiversity and ecological interdependence versus anthropocentric utility and acceptance of natural evolutionary turnover."
+    },
+    {
+        "id": "sb-14",
+        "prompt": "'It is right that students should contribute to the cost of their degrees.' Do you agree?",
+        "category": "Economics & Tech",
+        "keyTension": "Higher education as a private investment yielding higher lifetime earnings versus a public good requiring universal, debt-free access to promote social mobility."
+    },
+    {
+        "id": "sb-15",
+        "prompt": "What disciplinary sanctions should teachers be allowed to use?",
+        "category": "Law & Ethics",
+        "keyTension": "Maintaining classroom order and authority in loco parentis versus protecting students' bodily integrity, dignity, and right to an education."
+    },
+    {
+        "id": "sb-16",
+        "prompt": "'We must be prepared to sacrifice traditional liberties to defeat terrorism.' Discuss.",
+        "category": "Law & Ethics",
+        "keyTension": "National security and the state's duty to protect citizens from existential threats versus fundamental civil liberties, due process, and the rule of law."
+    },
+    {
+        "id": "sb-17",
+        "prompt": "Should the law require people to vote in general elections?",
+        "category": "Politics & Society",
+        "keyTension": "Civic duty and maximizing democratic legitimacy through universal turnout versus individual liberty and the right to abstain as a form of political expression."
+    },
+    {
+        "id": "sb-18",
+        "prompt": "Should private cars be rationed? If so, how?",
+        "category": "Politics & Society",
+        "keyTension": "Urgent environmental sustainability and congestion reduction versus personal freedom of movement and equitable access for those without viable public transit."
+    },
+    {
+        "id": "sb-19",
+        "prompt": "What is 'political correctness' and why does it matter?",
+        "category": "Culture & Rights",
+        "keyTension": "Inclusive language aimed at protecting marginalized groups from harm versus open public debate, free inquiry, and resistance to ideological conformity."
+    }
+]

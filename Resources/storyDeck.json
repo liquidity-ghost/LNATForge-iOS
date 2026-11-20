@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "mc-p01",
+    "cardNumber": 1,
+    "cardType": "primer",
+    "topic": "Main Conclusion",
+    "title": "What Is a Main Conclusion?",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Anchor vs. Evidence",
+      "claimText": "A Main Conclusion is the author’s ultimate claim—the single point every other sentence tries to prove. Supporting facts, statistics, and examples exist only to hold it up, never the reverse. Unlike background summaries, the Main Conclusion states what the author wants you to believe or do.",
+      "ruleTakeaway": "Premises answer WHY; the Main Conclusion states WHAT the author ultimately wants accepted.",
+      "wordCount": 44
+    },
+    "slide2_spotlight": {
+      "contextText": "Apply the two-second 'Because / Therefore' Direction Test to separate claims from evidence:",
+      "highlightedSegment": "Statement X is true BECAUSE Statement Y",
+      "qualifierTag": "Direction Test",
+      "focusNote": "Put candidate claims in X. If the passage answers WHY X holds using Y, then X is the conclusion.",
+      "wordCount": 38
+    },
+    "slide3_workedExample": {
+      "argumentText": "Urban cycle lanes initially slow rush-hour car traffic on narrow avenues. Yet protected bike networks cut commuter fatalities by half and boost footfall for local shops. City planners should therefore expand protected cycle lanes despite short-term driver delays.",
+      "highlightedSegment": "City planners should therefore expand protected cycle lanes despite short-term driver delays.",
+      "highlightLabel": "Main Conclusion ('should therefore')",
+      "annotation": "Sentence 1 concedes delays; sentence 2 supplies safety and retail evidence; sentence 3 delivers the normative verdict supported by both.",
+      "wordCount": 36
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Once you find the claim that receives support from everything else without supporting a higher claim, lock onto its exact scope.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Supporting Premise",
+          "howToSpot": "Factually true in the text, yet sits inside a 'because' or 'since' clause proving another point."
+        },
+        {
+          "trapName": "Trap: Counter-Premise / Concession",
+          "howToSpot": "Appears right after 'While', 'Although', or 'Admittedly'—the author grants it only to pivot away."
+        }
+      ],
+      "examTakeaway": "The Main Conclusion often sits near the end, yet never assume position—always verify support direction."
+    }
+  },
+  {
+    "id": "mc-p02",
+    "cardNumber": 2,
+    "cardType": "primer",
+    "topic": "Main Conclusion",
+    "title": "Pivot Words & Modality",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Track the Author’s Pivot",
+      "claimText": "LNAT passages rarely open with a blunt thesis. Authors build credibility by conceding an opposing view first, then turning sharply with a contrast marker. Spotting that structural pivot lets you separate the view the author rejects from the calibrated claim they actually defend.",
+      "ruleTakeaway": "Contrast pivots ('Yet', 'However', 'Nevertheless') mark where concession ends and the author’s thesis begins.",
+      "wordCount": 43
+    },
+    "slide2_spotlight": {
+      "contextText": "Scan for three structural signpost clusters whenever you read a dense LNAT paragraph:",
+      "highlightedSegment": "While / Although [concede] -> Yet / However [pivot] -> Therefore / Must [conclude]",
+      "qualifierTag": "Pivot Signposts",
+      "focusNote": "Match exact modal verbs ('should', 'may', 'rarely')—LNAT writers penalize upgrading 'should limit' into 'must ban'.",
+      "wordCount": 35
+    },
+    "slide3_workedExample": {
+      "argumentText": "Standardized exams offer universities a uniform way to compare applicants across unequal schools. However, high-stakes testing rewards costly test-prep coaching rather than genuine intellectual curiosity. Admissions panels should accordingly treat test scores as contextual indicators rather than rigid cutoffs.",
+      "highlightedSegment": "should accordingly treat test scores as contextual indicators rather than rigid cutoffs.",
+      "highlightLabel": "Calibrated Modal Verdict",
+      "annotation": "Notice the moderate remedy ('contextual indicators') after 'However'—never inflate this into 'universities must abolish standardized exams'.",
+      "wordCount": 39
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Even when you locate the right sentence, wrong options frequently distort its strength or swap the main claim for neutral background.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Too Extreme",
+          "howToSpot": "Upgrades hedged advice ('limit', 'contextualize', 'often') into absolutes like 'ban', 'always', or 'never'."
+        },
+        {
+          "trapName": "Trap: Background Context",
+          "howToSpot": "Summarizes the opening problem or an opponent's stance instead of the author's own resolution."
+        }
+      ],
+      "examTakeaway": "Verify both structural support AND modal strength ('advisory' vs 'banned') before locking your answer."
+    }
+  },
+  {
+    "id": "mc-01",
+    "cardNumber": 3,
+    "cardType": "drill",
+    "topic": "Main Conclusion",
+    "title": "Algorithmic Bail & Judicial Discretion",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Efficiency Is Not Neutrality",
+      "claimText": "Proponents argue that algorithmic risk-scoring tools eliminate human prejudice from bail hearings. Yet these models train on historical arrest records shaped by unequal policing. While faster dockets reduce remand delays, courts must resist treating statistical scores as binding verdicts rather than fallible advisory aids.",
+      "ruleTakeaway": "Concession words ('While', 'Although') introduce premises to reject; the author's normative 'must' statement carries the Main Conclusion.",
+      "wordCount": 47
+    },
+    "slide2_spotlight": {
+      "contextText": "Look closely at the pivot between administrative convenience and judicial duty in the final sentence:",
+      "highlightedSegment": "courts must resist treating statistical scores as binding verdicts rather than fallible advisory aids.",
+      "qualifierTag": "Normative Pivot ('While ... must')",
+      "focusNote": "Notice the author concedes speed gains ('reduce remand delays') before anchoring the prescriptive conclusion.",
+      "wordCount": 36
+    },
+    "slide3_drill": {
+      "questionId": "feed-mc-01",
+      "stem": "Which statement best expresses the Main Conclusion of the passage?",
+      "options": [
+        "Algorithmic risk-scoring tools should be banned from criminal courts because they rely on biased arrest data.",
+        "Judges should use algorithmic risk scores only as non-binding guidance rather than decisive determinations.",
+        "Faster bail dockets do not meaningfully reduce pre-trial remand delays in overburdened court systems.",
+        "Human judicial bias is always more transparent and correctable than statistical risk modeling."
+      ],
+      "correctIndex": 1,
+      "topic": "Main Conclusion",
+      "trapLabels": [
+        "Trap: Too Extreme",
+        "Correct Answer",
+        "Trap: Contradicts Concession",
+        "Trap: Out of Scope"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "The author rejects treating algorithms as binding verdicts, recommending they remain 'fallible advisory aids'—not banning them outright.",
+      "primaryTrap": "Trap: Too Extreme (Option A turns 'advise, don't bind' into a total ban).",
+      "optionBreakdowns": [
+        "A: Overreaches—the passage allows 'advisory aids' and never demands a full ban.",
+        "B: Correct—faithfully preserves both the advisory role and the rejection of binding force.",
+        "C: Reverses the author's explicit concession that faster dockets do reduce remand delays.",
+        "D: Introduces an unsupported comparison about human bias transparency."
+      ],
+      "examTakeaway": "On LNAT Main Conclusion items, match the exact modality ('advisory' vs 'banned', 'must' vs 'might')."
+    }
+  },
+  {
+    "id": "mc-02",
+    "cardNumber": 4,
+    "cardType": "drill",
+    "topic": "Main Conclusion",
+    "title": "Compulsory Voting & Democratic Legitimacy",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Turnout vs. Deliberation",
+      "claimText": "Defenders of compulsory voting claim that near-universal turnout guarantees fairer public policy. However, forcing disengaged citizens to cast ballots often inflates random donkey-voting without fostering civic literacy. True democratic legitimacy therefore depends less on raw ballot counts than on institutions that cultivate informed public debate.",
+      "ruleTakeaway": "Watch for 'therefore' following an 'However' rebuttal—intermediate critiques explain WHY, while the 'therefore' clause states WHAT follows.",
+      "wordCount": 49
+    },
+    "slide2_spotlight": {
+      "contextText": "Separate the empirical objection (random donkey-voting) from the overarching thesis it supports:",
+      "highlightedSegment": "True democratic legitimacy therefore depends less on raw ballot counts than on institutions that cultivate informed public debate.",
+      "qualifierTag": "Causal Critique -> Thesis ('therefore')",
+      "focusNote": "Random voting is evidence used to undermine turnout-only metrics, not the final claim itself.",
+      "wordCount": 37
+    },
+    "slide3_drill": {
+      "questionId": "feed-mc-02",
+      "stem": "What is the author's Main Conclusion?",
+      "options": [
+        "Compulsory voting increases donkey-voting among politically disengaged citizens.",
+        "Democratic legitimacy relies more on fostering informed debate than on maximizing voter turnout alone.",
+        "Public policy is invariably fairer when only highly educated citizens are permitted to vote.",
+        "Abolishing compulsory voting automatically produces higher levels of civic literacy."
+      ],
+      "correctIndex": 1,
+      "topic": "Main Conclusion",
+      "trapLabels": [
+        "Trap: Supporting Premise",
+        "Correct Answer",
+        "Trap: Too Extreme",
+        "Trap: Reverses Causality"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Option A is a true premise from sentence two, but it exists solely to support the comparative conclusion about democratic legitimacy in sentence three.",
+      "primaryTrap": "Trap: Supporting Premise (LNAT loves disguising a true middle premise as the Main Conclusion).",
+      "optionBreakdowns": [
+        "A: True in the text, yet structurally a premise supporting the 'therefore' claim.",
+        "B: Correct—captures the comparative conclusion ('depends less on X than on Y').",
+        "C: Distorts 'informed public debate' into disenfranchising less educated voters.",
+        "D: Claims abolishing compulsion 'automatically' creates literacy, which is unstated."
+      ],
+      "examTakeaway": "Always test a candidate conclusion with the 'Because' check: does the rest of the paragraph answer WHY this option is true?"
+    }
+  },
+  {
+    "id": "mc-03",
+    "cardNumber": 5,
+    "cardType": "drill",
+    "topic": "Main Conclusion",
+    "title": "Patient Autonomy vs. Medical Paternalism",
+    "difficulty": "Advanced",
+    "slide1_hook": {
+      "headline": "Procedure Over Character",
+      "claimText": "Traditional medical codes praised benevolent doctors acting without patient consent. Today, critics replace quasi-familial trust with Kantian autonomy rights. Regardless of how far those specific rights extend, the challenge to paternalism has shifted medical ethics so that who decides now outranks what is done.",
+      "ruleTakeaway": "Separate quoted critics' demands from the author's overarching meta-conclusion about what has changed.",
+      "wordCount": 46
+    },
+    "slide2_spotlight": {
+      "contextText": "Distinguish what 'unmollified critics' insist on from the writer's own final verdict:",
+      "highlightedSegment": "'Who is to decide?' has become more pressing than 'What is to be done?'",
+      "qualifierTag": "Author's Meta-Conclusion",
+      "focusNote": "Notice the author summarizes a structural shift in ethical priorities rather than taking an extreme abolitionist stance on oaths.",
+      "wordCount": 37
+    },
+    "slide3_drill": {
+      "questionId": "feed-mc-03",
+      "stem": "Which statement best expresses the writer's own Main Conclusion?",
+      "options": [
+        "The Hippocratic oath must be repealed because traditional physicians act like Victorian patriarchs.",
+        "The central question in modern medical ethics has shifted from technical treatment choices to decision-making authority.",
+        "Patients should always refuse medical advice even when their choices appear imprudent.",
+        "Neo-paternalist specialists rarely know their patients well enough to practice medicine safely."
+      ],
+      "correctIndex": 1,
+      "topic": "Main Conclusion",
+      "trapLabels": [
+        "Trap: Too Extreme",
+        "Correct Answer",
+        "Trap: Attributes Critic's View",
+        "Trap: Misreads Premise"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Adapted from Paper 1's 'Physicians and Patients': the closing paragraph states that physicians' power, not character, is now the central issue—making 'Who is to decide?' paramount.",
+      "primaryTrap": "Trap: Attributes Critic's View (Option C exaggerates the stance of 'unmollified critics' rather than the writer's analytical conclusion).",
+      "optionBreakdowns": [
+        "A: Overstates the passage—the writer never calls for repealing the Hippocratic oath.",
+        "B: Correct—captures the shift from 'What is to be done?' to 'Who is to decide?'.",
+        "C: Turns critics' defense of a right to refuse into an obligation to always refuse.",
+        "D: Distorts a background premise about hospital specialists into an extreme claim."
+      ],
+      "examTakeaway": "When a passage surveys competing camps, locate the writer's own summary verdict in the concluding synthesis."
+    }
+  },
+  {
+    "id": "ua-p01",
+    "cardNumber": 6,
+    "cardType": "primer",
+    "topic": "Unstated Assumptions",
+    "title": "The Hidden Bridge Premise",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Find the Missing Link",
+      "claimText": "An Unstated Assumption is an unspoken premise the argument strictly needs in order to work. Whenever a passage moves from evidence about Concept A to a conclusion about Concept B, the author silently assumes a bridge connecting A to B—and ruling out fatal exceptions.",
+      "ruleTakeaway": "An assumption isn’t merely helpful; without it, the conclusion collapses even if every stated premise is true.",
+      "wordCount": 44
+    },
+    "slide2_spotlight": {
+      "contextText": "Never guess by vibe—use the Negation Test on your shortlisted answer choice:",
+      "highlightedSegment": "Negate the option -> Does the author’s conclusion collapse?",
+      "qualifierTag": "The Negation Test",
+      "focusNote": "If flipping an option into 'NOT true' wrecks the argument, that option is a required Unstated Assumption.",
+      "wordCount": 34
+    },
+    "slide3_workedExample": {
+      "argumentText": "Electric buses produce zero tailpipe emissions during city routes. Replacing every municipal diesel bus with an electric model will therefore eliminate urban transit greenhouse emissions. This leap silently assumes charging those electric buses does not rely on coal-fired power plants.",
+      "highlightedSegment": "charging those electric buses does not rely on coal-fired power plants.",
+      "highlightLabel": "Necessary Bridge Assumption",
+      "annotation": "Apply the Negation Test: if the city grid runs on coal, tailpipe-free buses still generate upstream emissions—wrecking the conclusion.",
+      "wordCount": 40
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Necessary assumptions are usually modest defensive statements; extreme claims fail because the author doesn't actually need perfection.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Too Extreme",
+          "howToSpot": "Uses 'always', 'never', or 'completely'—negating 'never fails' to 'sometimes fails' rarely destroys a realistic claim."
+        },
+        {
+          "trapName": "Trap: Sufficient But Unnecessary",
+          "howToSpot": "Guarantees the conclusion if true, yet the argument still survives if it is false."
+        }
+      ],
+      "examTakeaway": "Prefer cautious defensive assumptions ('will not be offset by X') that collapse the argument when negated."
+    }
+  },
+  {
+    "id": "ua-p02",
+    "cardNumber": 7,
+    "cardType": "primer",
+    "topic": "Unstated Assumptions",
+    "title": "Policy Feasibility & No-Backfire",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Shielding the Remedy",
+      "claimText": "Many LNAT passages recommend a legal or policy fix for a real social problem. Beyond linking evidence to outcome, every policy conclusion silently assumes the proposed fix is workable in practice and will not trigger unintended side effects that recreate the original harm.",
+      "ruleTakeaway": "Policy assumptions guard against self-defeating side effects, offsetting costs, and broken implementation mechanisms.",
+      "wordCount": 43
+    },
+    "slide2_spotlight": {
+      "contextText": "Test every policy recommendation against the No-Backfire Check before inspecting options:",
+      "highlightedSegment": "Will the proposed remedy undermine its own goal or stay feasible?",
+      "qualifierTag": "No-Backfire Check",
+      "focusNote": "If the remedy depends on an actor who has a conflicting incentive, look for an independence assumption.",
+      "wordCount": 36
+    },
+    "slide3_workedExample": {
+      "argumentText": "Private landlords frequently delay urgent boiler repairs to protect quarterly profits. Empowering tenant tribunals to levy instant fines will therefore guarantee warmer, safer rental housing. Yet this works only if landlords do not pass fine risks into steep rent hikes or evictions.",
+      "highlightedSegment": "landlords do not pass fine risks into steep rent hikes or evictions.",
+      "highlightLabel": "Anti-Backfire Assumption",
+      "annotation": "Negate it: if fines prompt retaliatory evictions, housing security worsens instead of improving.",
+      "wordCount": 42
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Watch out for irrelevant background actors or choices that actively contradict the author's direction.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Reverses Direction",
+          "howToSpot": "Describes behavior that weakens the author's prediction rather than sustaining it."
+        },
+        {
+          "trapName": "Trap: Irrelevant Actor Detail",
+          "howToSpot": "Asks about motives or profits of a side group outside the causal path from policy to result."
+        }
+      ],
+      "examTakeaway": "Ask: 'What could cause this policy to backfire?' The necessary assumption rules out that failure mode."
+    }
+  },
+  {
+    "id": "ua-01",
+    "cardNumber": 8,
+    "cardType": "drill",
+    "topic": "Unstated Assumptions",
+    "title": "Autonomous Vehicle Strict Liability",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Bridging Fault to Insurance",
+      "claimText": "Fully autonomous vehicles eliminate human driver error, which causes over ninety percent of road collisions. Consequently, shifting legal responsibility from vehicle owners to software manufacturers will inevitably lower national motor insurance premiums within five years.",
+      "ruleTakeaway": "When a premise states X (fewer crashes) and the conclusion jumps to Y (lower premiums), an Unstated Assumption must link X to Y without countervailing costs.",
+      "wordCount": 42
+    },
+    "slide2_spotlight": {
+      "contextText": "Examine the silent economic leap from fewer collisions to cheaper insurance premiums:",
+      "highlightedSegment": "shifting legal responsibility from vehicle owners to software manufacturers will inevitably lower national motor insurance premiums",
+      "qualifierTag": "Bridge Gap (Safety -> Cost)",
+      "focusNote": "Even if crashes drop, what happens to the cost of each remaining claim or litigation?",
+      "wordCount": 34
+    },
+    "slide3_drill": {
+      "questionId": "feed-ua-01",
+      "stem": "Which unstated assumption is required for the author's conclusion to follow?",
+      "options": [
+        "Software manufacturers currently earn higher profit margins than traditional automobile insurers.",
+        "Autonomous vehicle sensors never malfunction during severe weather or night driving.",
+        "Higher per-incident litigation or repair costs under manufacturer liability will not offset savings from fewer crashes.",
+        "Vehicle owners will voluntarily purchase additional coverage even after liability shifts to manufacturers."
+      ],
+      "correctIndex": 2,
+      "topic": "Unstated Assumptions",
+      "trapLabels": [
+        "Trap: Irrelevant Actor Detail",
+        "Trap: Too Extreme",
+        "Correct Answer",
+        "Trap: Weakens Conclusion"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Negate Option C: if manufacturer-liability lawsuits and sensor repairs cost more than the savings from fewer crashes, premiums would not inevitably fall.",
+      "primaryTrap": "Trap: Too Extreme (Option B demands 'never malfunction', far stronger than needed).",
+      "optionBreakdowns": [
+        "A: Manufacturer profit margins do not dictate whether aggregate premiums fall.",
+        "B: Perfection ('never') is unnecessary; reducing 90% of crashes suffices if costs don't spike.",
+        "C: Correct—passes the Negation Test by ruling out offsetting cost increases.",
+        "D: Extra voluntary coverage would raise total spending, undermining lower premiums."
+      ],
+      "examTakeaway": "Use the Negation Test: negate the option; if the argument collapses, it is a necessary assumption."
+    }
+  },
+  {
+    "id": "ua-02",
+    "cardNumber": 9,
+    "cardType": "drill",
+    "topic": "Unstated Assumptions",
+    "title": "Public Subsidies for Investigative Journalism",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Funding Without Capture",
+      "claimText": "Digital advertising monopolies have hollowed out local newspapers, leaving municipal councils unchecked. Because robust accountability reporting cannot survive on reader subscriptions alone, state-funded journalism grants are essential to safeguard local democracy from unchecked corruption.",
+      "ruleTakeaway": "Policy arguments proposing a state remedy always assume the remedy will not recreate the very problem it aims to solve.",
+      "wordCount": 43
+    },
+    "slide2_spotlight": {
+      "contextText": "Probe the hidden premise connecting 'state-funded grants' to 'checking municipal/state power':",
+      "highlightedSegment": "state-funded journalism grants are essential to safeguard local democracy from unchecked corruption.",
+      "qualifierTag": "Mechanism Assumption",
+      "focusNote": "If the state holds the purse strings, can grant-funded outlets still scrutinize public officials independently?",
+      "wordCount": 33
+    },
+    "slide3_drill": {
+      "questionId": "feed-ua-02",
+      "stem": "The argument relies on which unstated assumption?",
+      "options": [
+        "Reader subscriptions will never become profitable for national investigative outlets.",
+        "State-funded journalism grants can be administered without allowing officials to suppress critical reporting.",
+        "Digital advertising monopolies intentionally target local newspapers to silence political coverage.",
+        "Every municipal council currently engages in corrupt financial practices."
+      ],
+      "correctIndex": 1,
+      "topic": "Unstated Assumptions",
+      "trapLabels": [
+        "Trap: Broadens Scope",
+        "Correct Answer",
+        "Trap: Unnecessary Intent",
+        "Trap: Too Extreme"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "If state grants compromised editorial independence (negating B), state-funded journalism could not reliably check public corruption.",
+      "primaryTrap": "Trap: Unnecessary Intent (Option C invents motive for ad monopolies, which is irrelevant).",
+      "optionBreakdowns": [
+        "A: Shifts focus from 'local newspapers' to 'national investigative outlets'.",
+        "B: Correct—necessary so state funding doesn't defeat the accountability goal.",
+        "C: Whether monopolies acted intentionally or purely commercially doesn't affect the remedy.",
+        "D: 'Every' council is extreme; the risk of unchecked power is enough."
+      ],
+      "examTakeaway": "Look for the 'self-defeating objection'—an assumption often shields the proposed solution from backfiring."
+    }
+  },
+  {
+    "id": "ua-03",
+    "cardNumber": 10,
+    "cardType": "drill",
+    "topic": "Unstated Assumptions",
+    "title": "Grammar Rules & Social Sanctions",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Authority Without Statutes",
+      "claimText": "Unlike traffic offenses punished by government courts, everyday speech habits such as 'I ain't' break no law of the land. Grammar books and critics lack state-conferred jurisdiction. Because no sovereign body regulates English, non-standard idioms cannot be condemned as genuine errors akin to illegal acts.",
+      "ruleTakeaway": "When an argument moves from 'no legal authority enforces X' to 'X is not a genuine error', check the hidden definition of authority.",
+      "wordCount": 47
+    },
+    "slide2_spotlight": {
+      "contextText": "Examine the missing bridge between lacking legal penalties and lacking valid linguistic rules:",
+      "highlightedSegment": "no sovereign body regulates English, non-standard idioms cannot be condemned as genuine errors",
+      "qualifierTag": "Normative Bridge Gap",
+      "focusNote": "Ask: could shared social conventions create valid standards of correctness even without Parliament or a Language Academy?",
+      "wordCount": 34
+    },
+    "slide3_drill": {
+      "questionId": "feed-ua-03",
+      "stem": "Which unstated assumption does the argument strictly require?",
+      "options": [
+        "Every English speaker secretly prefers using colloquial idioms like 'I ain't' in private conversation.",
+        "No rule of speech can count as a genuine standard of correctness unless backed by official legal or institutional authority.",
+        "National language academies in France and Spain successfully eradicated all non-standard regional dialects.",
+        "Employers never judge job candidates negatively for using non-standard grammar during interviews."
+      ],
+      "correctIndex": 1,
+      "topic": "Unstated Assumptions",
+      "trapLabels": [
+        "Trap: Too Extreme",
+        "Correct Answer",
+        "Trap: Contradicts Passage",
+        "Trap: Irrelevant Consequence"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Adapted from Paper 1's 'Right and Wrong Language': deducing that non-standard idioms aren't genuine errors simply because no statute or Academy enforces them assumes official authority is necessary for valid rules.",
+      "primaryTrap": "Trap: Irrelevant Consequence (Option D confuses pragmatic social penalties with whether a rule has formal validity).",
+      "optionBreakdowns": [
+        "A: 'Every English speaker' is far too sweeping and unnecessary for the argument.",
+        "B: Correct—negating it (rules can be valid via custom without state enforcement) collapses the conclusion.",
+        "C: Directly contradicted by the passage noting few took Academies seriously.",
+        "D: Job penalties are social outcomes, not a required premise about formal authority."
+      ],
+      "examTakeaway": "Apply the Negation Test to normative leaps: 'lack of legal sanction => not wrong' always assumes law or official decrees define validity."
+    }
+  },
+  {
+    "id": "lf-p01",
+    "cardNumber": 11,
+    "cardType": "primer",
+    "topic": "Logical Flaws",
+    "title": "Correlation vs. Causation",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Two Trends, One Trap",
+      "claimText": "Logical Flaw questions ask you to diagnose why an author’s evidence fails to prove their conclusion. The single most frequent LNAT error occurs when an author observes two trends rising together—or one event following another—and declares direct causation without checking alternative explanations.",
+      "ruleTakeaway": "Co-occurrence ('X and Y rose together') never establishes that X caused Y on its own.",
+      "wordCount": 44
+    },
+    "slide2_spotlight": {
+      "contextText": "Whenever an argument jumps from data correlation to causation, run this two-part check:",
+      "highlightedSegment": "1. Hidden Third Factor?  2. Reverse Causation (Y -> X)?",
+      "qualifierTag": "Causal Confounder Check",
+      "focusNote": "Also inspect sample bias: did the study survey only volunteers, survivors, or an unrepresentative subgroup?",
+      "wordCount": 34
+    },
+    "slide3_workedExample": {
+      "argumentText": "Hospitals that perform the most heart surgeries also report higher post-operative mortality rates than small rural clinics. Clearly, high-volume surgical teams become careless under heavy caseloads. Yet severely ill patients are routinely transferred to large specialty hospitals rather than rural clinics.",
+      "highlightedSegment": "severely ill patients are routinely transferred to large specialty hospitals",
+      "highlightLabel": "Confounding Third Factor",
+      "annotation": "Patient severity drives both high surgical volume and mortality, refuting the jump to team carelessness.",
+      "wordCount": 41
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Describe the exact reasoning gap cleanly—don't get seduced by impressive-sounding fallacy names that don't fit.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Wrong Flaw Label",
+          "howToSpot": "Uses textbook terms like 'circular reasoning' or 'necessary vs sufficient' on a straightforward causal-correlation leap."
+        },
+        {
+          "trapName": "Trap: Strawman Reading",
+          "howToSpot": "Exaggerates what the author assumed (e.g., claiming remote workers personally shoplift) instead of targeting the inference gap."
+        }
+      ],
+      "examTakeaway": "Verify every word of a flaw description against the passage: premise A -> jumped to conclusion B."
+    }
+  },
+  {
+    "id": "lf-p02",
+    "cardNumber": 12,
+    "cardType": "primer",
+    "topic": "Logical Flaws",
+    "title": "Ignorance & Conditional Flaws",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Unproven Is Not Disproven",
+      "claimText": "Beyond causal errors, LNAT arguments frequently trip over missing evidence or flipped conditionals. Treating the lack of studies proving X as proof that X is false commits an Appeal to Ignorance. Similarly, treating a required condition as an automatic guarantee flips conditional logic backward.",
+      "ruleTakeaway": "Absence of evidence is not evidence of absence; 'Only if X' is never the same as 'Guaranteed if X'.",
+      "wordCount": 45
+    },
+    "slide2_spotlight": {
+      "contextText": "Separate what the evidence lacks from what is positively disproved using two fast tests:",
+      "highlightedSegment": "'No study proved X' != 'X is false'  |  'Must have C to get E' != 'Having C gives E'",
+      "qualifierTag": "Logic & Burden Errors",
+      "focusNote": "Check who bears the burden of proof—and check arrow direction on 'requires' vs 'ensures'.",
+      "wordCount": 37
+    },
+    "slide3_workedExample": {
+      "argumentText": "No archaeological dig in this valley has uncovered bronze coins from the first century. Historians must therefore conclude that valley residents never traded using metal currency. Yet acidic valley soil corrodes bronze rapidly, leaving trade evidence invisible rather than proving coinless commerce.",
+      "highlightedSegment": "No archaeological dig in this valley has uncovered bronze coins",
+      "highlightLabel": "Appeal to Ignorance",
+      "annotation": "Missing artifacts reflect preservation or sampling limits—not positive proof that metal currency never existed.",
+      "wordCount": 42
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Flaw questions judge the reasoning link between stated premises and the conclusion—never whether a factual premise is empirically true.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Misdiagnosed Fallacy",
+          "howToSpot": "Names a real fallacy like equivocation or circularity when no word shifted meaning and premise differs from conclusion."
+        },
+        {
+          "trapName": "Trap: Attacks Premise Truth",
+          "howToSpot": "Questions whether the opening data is accurate rather than exposing why the inference fails."
+        }
+      ],
+      "examTakeaway": "Ask 'Even if the premise is 100% true, why doesn't the conclusion follow?' That gap IS the flaw."
+    }
+  },
+  {
+    "id": "lf-01",
+    "cardNumber": 13,
+    "cardType": "drill",
+    "topic": "Logical Flaws",
+    "title": "Remote Work & Urban Crime",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Correlation Dressed as Cause",
+      "claimText": "Between 2020 and 2023, cities with the highest rates of remote white-collar work also recorded the sharpest rise in downtown retail theft. Clearly, allowing office employees to work from home caused the surge in urban shoplifting.",
+      "ruleTakeaway": "Simultaneous trends ('X rose while Y rose') never prove X caused Y without ruling out third factors or reverse causation.",
+      "wordCount": 42
+    },
+    "slide2_spotlight": {
+      "contextText": "Spot the leap from parallel timing ('also recorded') to single-cause certainty ('Clearly ... caused'):",
+      "highlightedSegment": "Clearly, allowing office employees to work from home caused the surge in urban shoplifting.",
+      "qualifierTag": "Causal Leap",
+      "focusNote": "Could an unmentioned third factor—such as policing changes or economic distress—explain both trends?",
+      "wordCount": 33
+    },
+    "slide3_drill": {
+      "questionId": "feed-lf-01",
+      "stem": "Which best describes the principal logical flaw in the argument?",
+      "options": [
+        "It relies on an unrepresentative sample of rural rather than urban retail stores.",
+        "It mistakes a statistical correlation for proof of a direct causal relationship.",
+        "It assumes that white-collar workers are personally committing the retail thefts.",
+        "It confuses a necessary condition for shoplifting with a sufficient condition."
+      ],
+      "correctIndex": 1,
+      "topic": "Logical Flaws",
+      "trapLabels": [
+        "Trap: Factually False",
+        "Correct Answer",
+        "Trap: Strawman Reading",
+        "Trap: Wrong Flaw Label"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "The passage observes two co-occurring trends in cities (high remote work and rising retail theft) and immediately concludes one caused the other.",
+      "primaryTrap": "Trap: Wrong Flaw Label (Option D uses valid logic jargon that does not fit a correlation-causation error).",
+      "optionBreakdowns": [
+        "A: Misreads the passage, which explicitly examines cities and downtown retail.",
+        "B: Correct—accurately diagnoses the jump from co-occurrence ('also recorded') to causation.",
+        "C: Strawmans the claim; empty streets—not remote workers stealing—is the implied link.",
+        "D: Conditional logic confusion is not present in this empirical trend argument."
+      ],
+      "examTakeaway": "Don't pick an option just because it sounds formal ('necessary vs sufficient'); verify it matches the actual reasoning."
+    }
+  },
+  {
+    "id": "lf-02",
+    "cardNumber": 14,
+    "cardType": "drill",
+    "topic": "Logical Flaws",
+    "title": "Deterrence & Mandatory Minimums",
+    "difficulty": "Advanced",
+    "slide1_hook": {
+      "headline": "Absence of Proof vs. Proof of Absence",
+      "claimText": "No criminological study conducted in this jurisdiction has yet demonstrated that mandatory minimum sentences deter violent crime. Therefore, mandatory minimum sentences fail to deter violent offenders and should be repealed immediately.",
+      "ruleTakeaway": "Inferring that a phenomenon is false solely because current studies haven't proven it true commits the Appeal to Ignorance fallacy.",
+      "wordCount": 42
+    },
+    "slide2_spotlight": {
+      "contextText": "Focus on the shift from 'no study has yet demonstrated' to 'therefore ... fail to deter':",
+      "highlightedSegment": "No criminological study conducted in this jurisdiction has yet demonstrated that mandatory minimum sentences deter violent crime.",
+      "qualifierTag": "Argumentum ad Ignorantiam",
+      "focusNote": "Lack of local empirical proof could reflect poor data or recent enactment rather than zero deterrent effect.",
+      "wordCount": 35
+    },
+    "slide3_drill": {
+      "questionId": "feed-lf-02",
+      "stem": "The reasoning above is most vulnerable to criticism because it:",
+      "options": [
+        "Concludes that a policy is ineffective purely from the absence of local studies proving its effectiveness.",
+        "Appeals to public emotion rather than criminological statistics to justify sentencing reform.",
+        "Equivocates between two distinct legal definitions of violent crime across jurisdictions.",
+        "Presumes in its premises the very conclusion regarding repeal that it attempts to prove."
+      ],
+      "correctIndex": 0,
+      "topic": "Logical Flaws",
+      "trapLabels": [
+        "Correct Answer",
+        "Trap: Inaccurate Description",
+        "Trap: Irrelevant Jargon",
+        "Trap: Misdiagnosed Fallacy"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "The author treats 'no local study has yet shown X' as proof of 'not-X', ignoring insufficient sample sizes or evidence from comparable jurisdictions.",
+      "primaryTrap": "Trap: Misdiagnosed Fallacy (Option D describes circular reasoning, which is not occurring here).",
+      "optionBreakdowns": [
+        "A: Correct—identifies the Appeal to Ignorance leap from unproven to disproven.",
+        "B: The argument makes no emotional appeal; it cites the lack of studies.",
+        "C: No shift in the meaning of 'violent crime' appears in the text.",
+        "D: The premise (no study) is distinct from the conclusion (fail to deter/repeal), so it isn't circular."
+      ],
+      "examTakeaway": "Distinguish 'studies show it has no effect' (positive evidence) from 'no study has shown an effect' (absence of evidence)."
+    }
+  },
+  {
+    "id": "lf-03",
+    "cardNumber": 15,
+    "cardType": "drill",
+    "topic": "Logical Flaws",
+    "title": "Gendered Brains & Job Stereotypes",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Naturalizing Status Quo Roles",
+      "claimText": "A theorist observes that most nurses are women and most lawyers are men. Concluding that women possess an empathetic 'female brain' suited for nursing while men have an analytical 'male brain' suited for law, the theorist cites current workforce ratios as proof of innate neurological design.",
+      "ruleTakeaway": "Treating existing social arrangements as automatic proof of natural biological design ignores cultural barriers and overlapping skill demands.",
+      "wordCount": 48
+    },
+    "slide2_spotlight": {
+      "contextText": "Spot how current employment patterns get repackaged as objective job requirements:",
+      "highlightedSegment": "cites current workforce ratios as proof of innate neurological design.",
+      "qualifierTag": "Circular / Confounded Inference",
+      "focusNote": "Both nursing and law require analytical judgment and interpersonal skill—workforce ratios may reflect history rather than innate brain wiring.",
+      "wordCount": 36
+    },
+    "slide3_drill": {
+      "questionId": "feed-lf-03",
+      "stem": "What is the primary logical flaw in the theorist's reasoning?",
+      "options": [
+        "It assumes nursing requires empathy while failing to recognize that medical care has nothing to do with science.",
+        "It treats existing social and occupational demographics as evidence of innate biological differences without analyzing actual job demands.",
+        "It argues that men should be legally barred from entering empathetic caring professions such as nursing.",
+        "It relies on outdated 1970s surveys of magazine readers rather than contemporary employment statistics."
+      ],
+      "correctIndex": 1,
+      "topic": "Logical Flaws",
+      "trapLabels": [
+        "Trap: Distorts Premise",
+        "Correct Answer",
+        "Trap: Too Extreme",
+        "Trap: Out of Scope"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Adapted from Paper 2's 'The Myth of Mars and Venus' (Deborah Cameron on Baron-Cohen): the argument infers innate brain specializations from current gender demographics rather than analyzing what nursing and law actually demand.",
+      "primaryTrap": "Trap: Too Extreme (Option C invents a legal ban never proposed in the reasoning).",
+      "optionBreakdowns": [
+        "A: Misstates the gap—the flaw isn't denying science in medicine, it's equating demographics with biology.",
+        "B: Correct—directly identifies how social patterns are uncritically treated as innate biological proof.",
+        "C: Invents a prescriptive ban not present in the descriptive claim.",
+        "D: Magazine surveys belong to a different paragraph, not this biological argument."
+      ],
+      "examTakeaway": "Watch for arguments that read present social outcomes backward as 'natural' causes without testing alternative social explanations."
+    }
+  },
+  {
+    "id": "sw-p01",
+    "cardNumber": 16,
+    "cardType": "primer",
+    "topic": "Strengthen & Weaken",
+    "title": "Target the Bridge, Not Background",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Break or Reinforce the Link",
+      "claimText": "Strengthen and Weaken questions hand you a new fact outside the passage and ask how it shifts the conclusion’s credibility. You never win points by debating whether the original premises are true—you strengthen by validating the bridge assumption, and weaken by severing it.",
+      "ruleTakeaway": "New evidence helps or hurts an argument ONLY by testing its hidden bridge between premise and conclusion.",
+      "wordCount": 44
+    },
+    "slide2_spotlight": {
+      "contextText": "Before reading options A–D, locate the passage’s central gap and predict its directional lever:",
+      "highlightedSegment": "Weaken = add alternative cause / offsetting response | Strengthen = rule them out",
+      "qualifierTag": "Directional Lever",
+      "focusNote": "Check the exact verb in the stem: 'most WEAKENS' vs 'most STRENGTHENS'—flipping polarity is an instant error.",
+      "wordCount": 34
+    },
+    "slide3_workedExample": {
+      "argumentText": "City officials plan to halve downtown parking spaces so commuters switch to commuter rail. They predict morning air pollution will plummet within a year. However, if commuters instead circle blocks searching for scarce spots, tailpipe idling could increase downtown emissions.",
+      "highlightedSegment": "circle blocks searching for scarce spots, tailpipe idling could increase",
+      "highlightLabel": "Offsetting Mechanism (Weaken)",
+      "annotation": "Introducing a realistic behavioral feedback loop directly undercuts the predicted outcome without disputing the parking cut.",
+      "wordCount": 40
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Ignore emotional commentary or minor implementation friction; pick the choice that decisively shifts the predicted mechanism.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Moral Distraction",
+          "howToSpot": "Criticizes an industry or group's ethics (e.g., high ad budgets) without changing whether the predicted result occurs."
+        },
+        {
+          "trapName": "Trap: Minor Delay / Partial Effect",
+          "howToSpot": "Adds slight friction or baseline noise that leaves the core causal direction intact."
+        }
+      ],
+      "examTakeaway": "Trace the exact causal chain in the conclusion and ask: 'Does this option push that outcome UP or DOWN?'"
+    }
+  },
+  {
+    "id": "sw-p02",
+    "cardNumber": 17,
+    "cardType": "primer",
+    "topic": "Strengthen & Weaken",
+    "title": "Studies, Baselines & Generalization",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "From Lab Bench to Real World",
+      "claimText": "Many LNAT passages generalize from a controlled study, pilot program, or historical case to a sweeping real-world conclusion. To strengthen these arguments, confirm the study sample mirrors real conditions. To weaken them, expose an unrepresentative sample, missing baseline, or artificial lab constraint.",
+      "ruleTakeaway": "Empirical arguments stand or fall on ecological validity—does the study mechanism actually hold outside the test?",
+      "wordCount": 44
+    },
+    "slide2_spotlight": {
+      "contextText": "Run the Ecological Validity Check whenever evidence comes from an experiment or pilot:",
+      "highlightedSegment": "Do real-world stakes, incentives, and error rates match the study?",
+      "qualifierTag": "Ecological Validity",
+      "focusNote": "To strengthen, seek independent real-world corroboration; to weaken, highlight crucial differences between sample and target.",
+      "wordCount": 32
+    },
+    "slide3_workedExample": {
+      "argumentText": "A university trial showed students reading digital textbooks scored lower on recall quizzes than print readers. Educators argue screens impair deep comprehension across all professions. Field audits confirming the same recall drop among practicing lawyers and doctors would strongly reinforce that generalization.",
+      "highlightedSegment": "Field audits confirming the same recall drop among practicing lawyers and doctors",
+      "highlightLabel": "Real-World Corroboration (Strengthen)",
+      "annotation": "Independent professional field data bridges the external-validity gap between campus quizzes and broader adult reading.",
+      "wordCount": 42
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Stay focused on reliability of the claim—not whether the topic matters socially or whether a separate bias exists.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Impact Not Reliability",
+          "howToSpot": "Explains why a flaw or error would have serious consequences (e.g., juries trust confident witnesses) without proving the error occurs."
+        },
+        {
+          "trapName": "Trap: Opposite Direction",
+          "howToSpot": "Looks relevant to the study topic yet quietly weakens when asked to strengthen—or vice versa."
+        }
+      ],
+      "examTakeaway": "Confirm whether you need external validation (Strengthen) or a fatal lab-to-reality mismatch (Weaken)."
+    }
+  },
+  {
+    "id": "sw-01",
+    "cardNumber": 18,
+    "cardType": "drill",
+    "topic": "Strengthen & Weaken",
+    "title": "Pharmaceutical Patent Evergreening",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Target the Causal Bridge",
+      "claimText": "Critics contend that banning minor reformulation patents ('evergreening') will rapidly slash prescription drug prices. Yet pharmaceutical firms often launch new molecular entities only when secondary patents extend lifetime revenue enough to recover clinical trial losses.",
+      "ruleTakeaway": "To WEAKEN a policy prediction, introduce a realistic behavioral feedback loop that produces the opposite outcome.",
+      "wordCount": 42
+    },
+    "slide2_spotlight": {
+      "contextText": "Trace the author's warning about how firms finance risky drug development:",
+      "highlightedSegment": "only when secondary patents extend lifetime revenue enough to recover clinical trial losses.",
+      "qualifierTag": "Weaken via Incentive Shift",
+      "focusNote": "Which fact would directly undermine the claim that banning evergreening slashes overall drug prices?",
+      "wordCount": 31
+    },
+    "slide3_drill": {
+      "questionId": "feed-sw-01",
+      "stem": "Which finding, if true, would most WEAKEN the critics' prediction that banning evergreening will slash drug prices?",
+      "options": [
+        "Generic manufacturers require eighteen months after patent expiry to receive regulatory approval.",
+        "Without secondary patent extensions, firms raise launch prices on initial patents dramatically to recoup R&D costs earlier.",
+        "Several large pharmaceutical companies spend more on consumer marketing than on basic laboratory research.",
+        "Public hospitals frequently negotiate bulk discounts on off-patent antibiotics."
+      ],
+      "correctIndex": 1,
+      "topic": "Strengthen & Weaken",
+      "trapLabels": [
+        "Trap: Minor Delay Only",
+        "Correct Answer",
+        "Trap: Moral Distraction",
+        "Trap: Out of Scope"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "If banning secondary patents forces companies to spike initial launch prices to recover R&D, banning evergreening could actually keep or push prices higher.",
+      "primaryTrap": "Trap: Moral Distraction (Option C criticizes pharma marketing budgets, which doesn't refute the pricing prediction).",
+      "optionBreakdowns": [
+        "A: An 18-month generic delay applies whenever a patent expires, not uniquely due to banning evergreening.",
+        "B: Correct—introduces an offsetting pricing response that directly undercuts 'slash prices'.",
+        "C: Marketing spend critiques the industry morally without showing prices wouldn't drop.",
+        "D: Off-patent antibiotics are outside the scope of patented reformulations."
+      ],
+      "examTakeaway": "In Strengthen/Weaken items, ignore moral judgments and pick the option that directly alters the outcome mechanism."
+    }
+  },
+  {
+    "id": "sw-02",
+    "cardNumber": 19,
+    "cardType": "drill",
+    "topic": "Strengthen & Weaken",
+    "title": "Eyewitness Testimony Under Stress",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Eliminate Alternative Explanations",
+      "claimText": "Defense attorneys argue that high-stress crimes produce unreliable eyewitness identifications. They cite lab studies showing that subjects exposed to simulated loud alarms misidentify actors in photo lineups far more often than calm control subjects.",
+      "ruleTakeaway": "To STRENGTHEN an experimental argument, bridge the gap between the artificial lab setting and real-world courtrooms.",
+      "wordCount": 42
+    },
+    "slide2_spotlight": {
+      "contextText": "Spot the classic external-validity gap between simulated lab subjects and real crime witnesses:",
+      "highlightedSegment": "subjects exposed to simulated loud alarms misidentify actors in photo lineups far more often",
+      "qualifierTag": "Lab-to-Reality Bridge",
+      "focusNote": "Critics could dismiss lab alarms as mild compared to real danger—or argue real witnesses pay closer attention.",
+      "wordCount": 34
+    },
+    "slide3_drill": {
+      "questionId": "feed-sw-02",
+      "stem": "Which statement, if true, most STRENGTHENS the defense attorneys' argument?",
+      "options": [
+        "Police departments have recently adopted double-blind lineup procedures to prevent officer cueing.",
+        "DNA exonerations of convicted defendants show high-stress eyewitness error rates matching or exceeding those in lab simulations.",
+        "Juries tend to find confident eyewitnesses highly persuasive during criminal trials.",
+        "Calm witnesses sometimes forget minor details such as the color of a suspect's shoes."
+      ],
+      "correctIndex": 1,
+      "topic": "Strengthen & Weaken",
+      "trapLabels": [
+        "Trap: Weakens / Mitigates",
+        "Correct Answer",
+        "Trap: Impact Not Reliability",
+        "Trap: Irrelevant Baseline"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "DNA exoneration data confirms that lab error rates generalize to real-world high-stress crimes, closing the ecological validity gap.",
+      "primaryTrap": "Trap: Impact Not Reliability (Option C explains why errors matter to juries, not why stress causes errors).",
+      "optionBreakdowns": [
+        "A: Better lineup rules address officer bias, not stress-induced memory error.",
+        "B: Correct—validates that real-world high-stress errors mirror the laboratory findings.",
+        "C: Jury persuasion concerns trial impact rather than the accuracy of stressed witnesses.",
+        "D: Showing calm witnesses miss shoe color weakens the contrast with stressed witnesses."
+      ],
+      "examTakeaway": "To strengthen study-based arguments, look for evidence that the study mechanism holds in real-world conditions."
+    }
+  },
+  {
+    "id": "sw-03",
+    "cardNumber": 20,
+    "cardType": "drill",
+    "topic": "Strengthen & Weaken",
+    "title": "Wind Volatility & Energy Policy",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Testing Grid Reliability",
+      "claimText": "Twelve years of winter weather data show UK-wide wind output fluctuates wildly, dropping to an average minimum below four percent of capacity. Consequently, governments must invest across a broad portfolio of low-carbon technologies rather than allowing wind turbines to crowd out rival renewable sources.",
+      "ruleTakeaway": "To weaken or strengthen a grid policy argument, target the link between variable output and actual electricity supply stability.",
+      "wordCount": 46
+    },
+    "slide2_spotlight": {
+      "contextText": "Target the core bottleneck—managing extreme troughs when winter winds drop across the entire grid:",
+      "highlightedSegment": "dropping to an average minimum below four percent of capacity",
+      "qualifierTag": "Causal Bottleneck",
+      "focusNote": "Ask what evidence would confirm or break the claim that wind alone leaves the grid fragile.",
+      "wordCount": 33
+    },
+    "slide3_drill": {
+      "questionId": "feed-sw-03",
+      "stem": "Which finding would most seriously WEAKEN the policy recommendation above?",
+      "options": [
+        "Offshore wind farms consistently achieve higher average capacity factors than inland turbine installations.",
+        "Inexpensive grid-scale batteries can now store surplus wind energy cheaply enough to cover multi-week winter lulls.",
+        "Several European countries have also encountered public opposition when proposing rural wind corridors.",
+        "Biomass and tidal generators currently receive smaller government research grants than wind projects."
+      ],
+      "correctIndex": 1,
+      "topic": "Strengthen & Weaken",
+      "trapLabels": [
+        "Trap: True but Irrelevant",
+        "Correct Answer",
+        "Trap: Strengthens Conclusion",
+        "Trap: Restates Background"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Adapted from Paper 2's 'Renewable Energy': the argument relies on wind volatility creating unmanageable supply troughs. Cheap multi-week storage directly neutralizes that volatility bottleneck.",
+      "primaryTrap": "Trap: True but Irrelevant (Option A leaves winter-wide calm troughs untouched because total wind still swings).",
+      "optionBreakdowns": [
+        "A: Higher offshore averages don't fix synchronized winter wind droughts across the grid.",
+        "B: Correct—breaks the link between intermittent generation and unreliable supply.",
+        "C: Public opposition to wind would strengthen, not weaken, diversifying into other technologies.",
+        "D: Existing grant disparities explain why wind might crowd out rivals, aligning with the premise."
+      ],
+      "examTakeaway": "A strong Weaken answer directly breaks the operational problem justifying the author's policy recommendation."
+    }
+  },
+  {
+    "id": "si-p01",
+    "cardNumber": 21,
+    "cardType": "primer",
+    "topic": "Strict Inference",
+    "title": "Must Be True Discipline",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Zero Extrapolation Allowed",
+      "claimText": "Strict Inference asks what MUST be true solely on the strength of the given passage—not what is plausible, likely, or morally sensible. If an answer choice imports a single outside fact or stretches a qualified rule into an absolute guarantee, eliminate it immediately.",
+      "ruleTakeaway": "If you can invent one realistic scenario where the passage is true and the option is false, that option fails.",
+      "wordCount": 44
+    },
+    "slide2_spotlight": {
+      "contextText": "Audit quantifiers and modal words carefully—LNAT inference answers are cautious by design:",
+      "highlightedSegment": "'Some / Often / May' (Safe)  vs.  'All / Always / Never / Solely' (Danger)",
+      "qualifierTag": "Quantifier Discipline",
+      "focusNote": "Look closely at 'provided', 'unless', and 'only'—every proviso creates an exact boundary condition.",
+      "wordCount": 32
+    },
+    "slide3_workedExample": {
+      "argumentText": "Regional courts may consult foreign precedents when domestic statutes leave a legal term undefined. However, judges remain strictly prohibited from applying foreign law where Parliament has enacted explicit statutory definitions. Thus, clear domestic legislation always overrides persuasive foreign authority.",
+      "highlightedSegment": "strictly prohibited from applying foreign law where Parliament has enacted explicit statutory definitions",
+      "highlightLabel": "Exact Proviso Boundary",
+      "annotation": "You may safely infer a court declines foreign precedent when statutory text is explicit—never that courts 'never' cite foreign rulings.",
+      "wordCount": 39
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Treat inference options like legal contracts: every adjective and quantifier must be 100% backed by the text.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Exaggerates Scope",
+          "howToSpot": "Turns 'sometimes', 'most', or 'ambiguous statutes' into sweeping absolutes like 'always', 'all', or 'greater legal authority'."
+        },
+        {
+          "trapName": "Trap: Contradicts Text",
+          "howToSpot": "Focuses on one negative clause ('cannot enforce') while ignoring an adjacent sentence allowing advisory or interpretive use."
+        }
+      ],
+      "examTakeaway": "When two options look tempting, pick the narrower, more cautious statement—it is far easier to prove."
+    }
+  },
+  {
+    "id": "si-p02",
+    "cardNumber": 22,
+    "cardType": "primer",
+    "topic": "Strict Inference",
+    "title": "Set Membership & Obligation",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Not Required != Prohibited",
+      "claimText": "Many LNAT inference passages define legal rules across overlapping subgroups—such as small versus large firms, or listed versus unlisted entities. Precision requires separating what a subgroup is forced to do from what it is barred from doing, and tracking subset existence.",
+      "ruleTakeaway": "Exempting a group from a legal duty never implies the group is forbidden from doing it voluntarily.",
+      "wordCount": 43
+    },
+    "slide2_spotlight": {
+      "contextText": "Check these three classic modal boundaries whenever a passage states statutory duties:",
+      "highlightedSegment": "'Not required' != 'Prohibited'  |  'Listed firms' != 'Unlisted firms'",
+      "qualifierTag": "Set & Modal Boundaries",
+      "focusNote": "Also check existence: if sentence 3 names 'smaller listed firms', you know at least some exist.",
+      "wordCount": 34
+    },
+    "slide3_workedExample": {
+      "argumentText": "Every licensed pharmacy must stock emergency epinephrine, whereas only chain pharmacies with five branches must remain open past midnight. Independent pharmacies therefore face no statutory mandate for late-night hours. Yet nothing in the statute forbids an independent pharmacist from voluntarily staying open late.",
+      "highlightedSegment": "only chain pharmacies with five branches must remain open past midnight",
+      "highlightLabel": "Subset Mandate Boundary",
+      "annotation": "Independent pharmacies have no legal duty to stay open late, yet inferring they are barred from doing so is invalid.",
+      "wordCount": 43
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Respect the exact border of the stated universe—never bridge from regulated groups to unregulated outsiders.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Required vs Prohibited",
+          "howToSpot": "Concludes that because a subgroup is exempt from a mandate, it is legally barred from acting voluntarily."
+        },
+        {
+          "trapName": "Trap: Out of Scope Subgroup",
+          "howToSpot": "Makes claims about a contrast group never mentioned in the rules (e.g., unlisted firms when rules cover listed ones)."
+        }
+      ],
+      "examTakeaway": "Draw quick mental circles for each group ('All A', 'Only B') and refuse to infer outside the circles."
+    }
+  },
+  {
+    "id": "si-01",
+    "cardNumber": 23,
+    "cardType": "drill",
+    "topic": "Strict Inference",
+    "title": "Constitutional Conventions & Sovereignty",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Must Be True—Nothing More",
+      "claimText": "Under UK constitutional doctrine, conventions bind political actors morally and politically, yet courts refuse to enforce them as legal rules. Nevertheless, judges routinely cite established conventions when interpreting ambiguous statutes, provided no clear statutory text contradicts the convention.",
+      "ruleTakeaway": "Strict Inference tolerates zero extrapolation. If a statement uses 'always', 'never', or 'solely' beyond the text's exact qualifiers, eliminate it.",
+      "wordCount": 46
+    },
+    "slide2_spotlight": {
+      "contextText": "Check both boundary qualifiers carefully—'routinely' and 'provided no clear statutory text contradicts':",
+      "highlightedSegment": "judges routinely cite established conventions when interpreting ambiguous statutes, provided no clear statutory text contradicts the convention.",
+      "qualifierTag": "Conditional Qualifier ('provided')",
+      "focusNote": "Conventions inform ambiguous text, yet clear legislation still overrides them.",
+      "wordCount": 32
+    },
+    "slide3_drill": {
+      "questionId": "feed-si-01",
+      "stem": "If the passage is true, which of the following MUST be true?",
+      "options": [
+        "Constitutional conventions carry greater legal authority than ambiguous parliamentary statutes.",
+        "A court may decline to apply a convention if clear statutory language conflicts with it.",
+        "Judges never reference political practices when deciding constitutional cases.",
+        "Political actors face criminal penalties when they breach established constitutional conventions."
+      ],
+      "correctIndex": 1,
+      "topic": "Strict Inference",
+      "trapLabels": [
+        "Trap: Exaggerates Scope",
+        "Correct Answer",
+        "Trap: Contradicts Text",
+        "Trap: Out of Scope"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Because judicial citation happens only 'provided no clear statutory text contradicts the convention', clear conflicting text removes that reliance.",
+      "primaryTrap": "Trap: Contradicts Text (Option C turns 'refuse to enforce as legal rules' into 'never reference').",
+      "optionBreakdowns": [
+        "A: False—conventions aren't enforced as legal rules and yield to clear statutes.",
+        "B: Correct—directly follows from the 'provided no clear statutory text contradicts' proviso.",
+        "C: Directly contradicted by 'judges routinely cite established conventions'.",
+        "D: Criminal penalties are never mentioned; conventions bind 'morally and politically'."
+      ],
+      "examTakeaway": "On Strict Inference questions, the right answer often looks cautious ('may', 'when', 'some') because LNAT precision forbids exaggeration."
+    }
+  },
+  {
+    "id": "si-02",
+    "cardNumber": 24,
+    "cardType": "drill",
+    "topic": "Strict Inference",
+    "title": "Corporate Environmental Disclosures",
+    "difficulty": "Advanced",
+    "slide1_hook": {
+      "headline": "Quantifier Precision Drill",
+      "claimText": "Every publicly listed manufacturer in Country X must publish annual carbon-audit disclosures. However, only firms exceeding 500 employees are required to have those audits independently verified. Consequently, investors reading reports from smaller listed manufacturers cannot rely on third-party audit verification.",
+      "ruleTakeaway": "Track set membership carefully: 'All A do X' plus 'Only B (subset) do Y' leaves non-B members without required Y.",
+      "wordCount": 46
+    },
+    "slide2_spotlight": {
+      "contextText": "Separate mandatory publication (all listed manufacturers) from mandatory third-party verification (>500 employees):",
+      "highlightedSegment": "only firms exceeding 500 employees are required to have those audits independently verified.",
+      "qualifierTag": "Set-Membership Boundary",
+      "focusNote": "Notice 'required' does not prohibit smaller firms from voluntarily hiring auditors—it removes any guarantee.",
+      "wordCount": 32
+    },
+    "slide3_drill": {
+      "questionId": "feed-si-02",
+      "stem": "Which conclusion is strictly entailed by the statements above?",
+      "options": [
+        "Smaller listed manufacturers are legally prohibited from obtaining independent audit verification.",
+        "Some publicly listed manufacturers in Country X publish carbon disclosures without a statutory mandate for independent verification.",
+        "Carbon disclosures from firms with over 500 employees are always completely accurate.",
+        "No unlisted manufacturer in Country X publishes annual carbon-audit disclosures."
+      ],
+      "correctIndex": 1,
+      "topic": "Strict Inference",
+      "trapLabels": [
+        "Trap: Required vs Prohibited",
+        "Correct Answer",
+        "Trap: Too Extreme",
+        "Trap: Out of Scope (Unlisted)"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Smaller listed manufacturers (under 500 employees, implied by 'smaller listed manufacturers' in the text) must publish disclosures but lack a statutory verification requirement.",
+      "primaryTrap": "Trap: Required vs Prohibited (Option A confuses 'not required' with 'legally prohibited').",
+      "optionBreakdowns": [
+        "A: Not being required to verify does not mean verification is forbidden.",
+        "B: Correct—smaller listed firms exist per sentence three and fall outside the >500 verification mandate.",
+        "C: Independent verification doesn't guarantee 'always completely accurate'.",
+        "D: The rules cover 'listed' firms; nothing is stated about unlisted firms."
+      ],
+      "examTakeaway": "Never equate 'not required' with 'prohibited', and never infer rules about 'unlisted' groups from rules on 'listed' groups."
+    }
+  },
+  {
+    "id": "si-03",
+    "cardNumber": 25,
+    "cardType": "drill",
+    "topic": "Strict Inference",
+    "title": "Ideological Spectrum in Civil Service",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Bounded Without Doctrine",
+      "claimText": "Senior civil servants are no longer recruited mainly by family background or religious affiliation, nor must they endorse one official party doctrine. Yet career survival still demands staying within a narrow band from strong conservatism to weak reformism; straying outside that spectrum risks professional ruin.",
+      "ruleTakeaway": "Strict Inference separates 'no single mandatory doctrine' from 'total ideological freedom'—boundaries can remain tight without formal dogma.",
+      "wordCount": 47
+    },
+    "slide2_spotlight": {
+      "contextText": "Track the exact boundary between what is absent (one rigid creed) and what is enforced (a narrow range):",
+      "highlightedSegment": "expected to dwell within a spectrum of thought of which strong conservatism forms one extreme and weak 'reformism' the other.",
+      "qualifierTag": "Bounded Range",
+      "focusNote": "Notice two distinct groups fall inside the accepted range, while radical views outside it face career penalties.",
+      "wordCount": 37
+    },
+    "slide3_drill": {
+      "questionId": "feed-si-03",
+      "stem": "If the passage is true, which statement MUST also be true?",
+      "options": [
+        "Every top civil servant holds strongly conservative views on economic policy.",
+        "Civil servants can avoid subscribing to a single rigid party creed while still facing career penalties for radical views.",
+        "Religious affiliation remains the primary criterion governing civil service promotions.",
+        "Strong reformists routinely advance to top administrative posts without ideological screening."
+      ],
+      "correctIndex": 1,
+      "topic": "Strict Inference",
+      "trapLabels": [
+        "Trap: Too Extreme",
+        "Correct Answer",
+        "Trap: Contradicts Text",
+        "Trap: Outside Permitted Spectrum"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Adapted from Paper 1's 'Top Civil Servants': the text notes officials aren't forced into a single doctrine yet suffer blighted careers if they step outside the conservative-to-weak-reformism band.",
+      "primaryTrap": "Trap: Too Extreme (Option A ignores that 'weak reformism' sits at the other permitted boundary).",
+      "optionBreakdowns": [
+        "A: Overstates the rule—weak reformism is explicitly inside the acceptable spectrum.",
+        "B: Correct—faithfully combines both clauses without exaggerating either boundary.",
+        "C: Directly contradicted by 'no longer in the main determined on the basis of... religious affiliation'.",
+        "D: Only 'weak reformism' is tolerated; strong or radical views fall outside the boundary."
+      ],
+      "examTakeaway": "Preserve exact boundary words ('weak' vs 'strong', 'single doctrine' vs 'spectrum') in Strict Inference items."
+    }
+  },
+  {
+    "id": "pr-p01",
+    "cardNumber": 26,
+    "cardType": "primer",
+    "topic": "Parallel Reasoning",
+    "title": "Map the Logical Skeleton",
+    "difficulty": "Foundation",
+    "slide1_hook": {
+      "headline": "Strip Away the Nouns",
+      "claimText": "Parallel Reasoning asks you to match the underlying logical blueprint of an argument across completely unrelated subject matter. Ignore whether the passage discusses constitutional law, medicine, or baking—reduce every sentence to abstract variables and arrows before scanning the answer choices.",
+      "ruleTakeaway": "Match structure, never topic: two arguments are parallel only when their abstract rule and inference pattern align.",
+      "wordCount": 42
+    },
+    "slide2_spotlight": {
+      "contextText": "Translate 'must', 'all', and 'requires' into clean conditional arrows before reading options:",
+      "highlightedSegment": "If A -> B.  Not B.  Therefore, Not A.  (Valid Modus Tollens)",
+      "qualifierTag": "Symbolic Skeleton",
+      "focusNote": "Put the required condition on the RIGHT side of the arrow: 'To get A, must have B' means If A -> B.",
+      "wordCount": 36
+    },
+    "slide3_workedExample": {
+      "argumentText": "To argue before the Supreme Court, an advocate must hold an active appellate license. Counselor Lin’s appellate license expired last month. Consequently, Counselor Lin cannot appear before the Supreme Court—mirroring 'If S, then L; not L; therefore not S'.",
+      "highlightedSegment": "If S, then L; not L; therefore not S",
+      "highlightLabel": "Abstract Valid Blueprint",
+      "annotation": "Denying the necessary condition (license) validly rules out the trigger (appearing)—identical across law, finance, or sport.",
+      "wordCount": 39
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Distractors love reusing exact topic nouns while quietly reversing the conditional arrow into classic formal fallacies.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Affirming the Consequent",
+          "howToSpot": "Follows 'If A -> B; B is true; therefore A'—invalidly treats a necessary requirement as a sufficient guarantee."
+        },
+        {
+          "trapName": "Trap: Denying the Antecedent",
+          "howToSpot": "Follows 'If A -> B; Not A; therefore Not B'—wrongly assumes failing the trigger blocks the outcome."
+        }
+      ],
+      "examTakeaway": "Valid matches valid; flawed matches identically flawed. Check validity first to eliminate half the options fast."
+    }
+  },
+  {
+    "id": "pr-p02",
+    "cardNumber": 27,
+    "cardType": "primer",
+    "topic": "Parallel Reasoning",
+    "title": "Exceptions, Quantifiers & Polarity",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Preserve Quantifiers & 'Unless'",
+      "claimText": "Harder Parallel Reasoning items test subtle mismatches in quantifiers ('All' versus 'Most'), conclusion polarity, or 'unless' exception clauses. When an argument states 'All A are B unless C', a valid parallel argument must confirm BOTH base membership in A and the absence of exception C.",
+      "ruleTakeaway": "Verify every logical piece: quantifier strength, 'unless' exception handling, and whether the conclusion affirms or denies.",
+      "wordCount": 45
+    },
+    "slide2_spotlight": {
+      "contextText": "Check these three structural locks whenever an argument includes an 'unless' proviso:",
+      "highlightedSegment": "'All A are B unless C'  =>  Verify A + Verify Not-C  =>  Deduce B",
+      "qualifierTag": "'Unless' Double-Check",
+      "focusNote": "Also check conclusion polarity: 'no fine' is negative, whereas 'protected' or 'eligible' is positive.",
+      "wordCount": 32
+    },
+    "slide3_workedExample": {
+      "argumentText": "Every full-time clerk receives overtime pay unless they hold managerial sign-off authority. Tariq works full-time and holds no sign-off authority. Therefore, Tariq receives overtime pay—verifying both the base status (A) and the negated exception (Not-C).",
+      "highlightedSegment": "Tariq works full-time and holds no sign-off authority",
+      "highlightLabel": "Dual Condition Verification",
+      "annotation": "Omitting 'works full-time' breaks the pattern even if the exception check ('no sign-off') is present.",
+      "wordCount": 37
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Small omissions in an option—like skipping the base category or swapping 'All' for 'Most'—destroy structural parallelism.",
+      "commonTraps": [
+        {
+          "trapName": "Trap: Quantifier Shift",
+          "howToSpot": "Replaces universal 'Every / Must' with probabilistic 'Most / Often' or shifts the conclusion’s category."
+        },
+        {
+          "trapName": "Trap: Drops Base Condition",
+          "howToSpot": "Checks that the exception C did not happen, yet forgets to verify the subject belongs to group A."
+        }
+      ],
+      "examTakeaway": "Count the premises: if the stimulus checks two conditions to deduce a positive result, the match must do both."
+    }
+  },
+  {
+    "id": "pr-01",
+    "cardNumber": 28,
+    "cardType": "drill",
+    "topic": "Parallel Reasoning",
+    "title": "Necessary vs. Sufficient Conditions",
+    "difficulty": "Intermediate",
+    "slide1_hook": {
+      "headline": "Map the Skeleton, Ignore the Nouns",
+      "claimText": "For a contract to be legally enforceable, both parties must offer valid consideration. Since the signed memorandum lacked mutual consideration, it cannot be enforced in court. Look past 'contracts' and see the pure logical skeleton: If E, then C. Not C. Therefore, not E.",
+      "ruleTakeaway": "In Parallel Reasoning, translate sentences into symbols (If E -> C; ~C; therefore ~E) before reading the answer choices.",
+      "wordCount": 49
+    },
+    "slide2_spotlight": {
+      "contextText": "Verify the valid Modus Tollens pattern—denying the necessary condition denies the outcome:",
+      "highlightedSegment": "If E, then C. Not C. Therefore, not E.",
+      "qualifierTag": "Valid Modus Tollens",
+      "focusNote": "Beware distractors that swap in Affirming the Consequent (If E -> C; C; therefore E)—they share words but break the logic.",
+      "wordCount": 37
+    },
+    "slide3_drill": {
+      "questionId": "feed-pr-01",
+      "stem": "Which argument exhibits the exact same logical structure as the passage?",
+      "options": [
+        "All licensed surgeons pass board exams. Dr. Patel passed board exams. Therefore, Dr. Patel is a licensed surgeon.",
+        "To graduate with honors, a student must maintain a 3.8 GPA. Maya's GPA is 3.5, so she cannot graduate with honors.",
+        "If a museum closes early, visitors receive refunds. Today the museum stayed open late, so visitors received no refunds.",
+        "Most constitutional amendments require supermajorities. This bill failed to get a supermajority, so it is unconstitutional."
+      ],
+      "correctIndex": 1,
+      "topic": "Parallel Reasoning",
+      "trapLabels": [
+        "Trap: Affirming the Consequent",
+        "Correct Answer",
+        "Trap: Denying the Antecedent",
+        "Trap: Quantifier Shift ('Most')"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "The stimulus uses valid Modus Tollens: If Enforceable (E) -> Consideration (C); Not C -> Not E. Option B mirrors: If Honors (H) -> 3.8 GPA (G); Not G -> Not H.",
+      "primaryTrap": "Trap: Affirming the Consequent (Option A mirrors the terms in reverse order, producing an invalid argument).",
+      "optionBreakdowns": [
+        "A: Invalid—If S -> P, P, therefore S (Affirming the Consequent).",
+        "B: Correct—If H -> G, ~G, therefore ~H (exact valid Modus Tollens match).",
+        "C: Invalid—If Close -> Refund, ~Close, therefore ~Refund (Denying the Antecedent).",
+        "D: Mismatches 'All/Must' with 'Most' and shifts 'amendment' to 'unconstitutional'."
+      ],
+      "examTakeaway": "A valid stimulus MUST match a valid answer; an invalid stimulus MUST match an identically flawed answer."
+    }
+  },
+  {
+    "id": "pr-02",
+    "cardNumber": 29,
+    "cardType": "drill",
+    "topic": "Parallel Reasoning",
+    "title": "Exception Clauses in Assembly Rights",
+    "difficulty": "Advanced",
+    "slide1_hook": {
+      "headline": "Preserving 'Unless' Exceptions",
+      "claimText": "Every peaceful public assembly is constitutionally protected unless it blocks emergency hospital access. Yesterday's rally remained entirely peaceful and did not obstruct any hospital route. Therefore, yesterday's rally was constitutionally protected.",
+      "ruleTakeaway": "'All A are B unless C' translates to: If A and Not-C, then B. Both conditions must be verified to reach the conclusion.",
+      "wordCount": 39
+    },
+    "slide2_spotlight": {
+      "contextText": "Check how the two premises satisfy both the rule trigger ('peaceful') and the negated exception ('did not obstruct'):",
+      "highlightedSegment": "Every peaceful public assembly is constitutionally protected unless it blocks emergency hospital access.",
+      "qualifierTag": "Conditional + 'Unless' Guard",
+      "focusNote": "Watch for traps that forget to check the base condition (A) or flip the 'unless' exception.",
+      "wordCount": 32
+    },
+    "slide3_drill": {
+      "questionId": "feed-pr-02",
+      "stem": "Which argument follows the same pattern of reasoning as the one above?",
+      "options": [
+        "All library books incur fines unless returned within fourteen days. Leo returned his book on day ten, so he owes no fine.",
+        "Every full-time employee receives transit vouchers unless they live within one mile of headquarters. Priya works full-time and lives three miles away, so she receives transit vouchers.",
+        "Any applicant with three years' experience is interviewed unless their portfolio is incomplete. Sam's portfolio is complete, so Sam will be interviewed.",
+        "Journalists are shielded from source disclosure unless a court issues a subpoena. No subpoena was issued, so the witness was a journalist."
+      ],
+      "correctIndex": 1,
+      "topic": "Parallel Reasoning",
+      "trapLabels": [
+        "Trap: Flips Polarity (No Fine)",
+        "Correct Answer",
+        "Trap: Drops Base Condition",
+        "Trap: Reverses Conclusion"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Pattern: All A are B unless C; X is A and Not-C; therefore X is B. Option B verifies Priya is full-time (A) and lives >1 mile away (Not-C), concluding she gets vouchers (B).",
+      "primaryTrap": "Trap: Drops Base Condition (Option C verifies Sam's portfolio is complete [Not-C], but never confirms Sam has 3 years' experience [A]).",
+      "optionBreakdowns": [
+        "A: Negates the consequence ('owes no fine') instead of affirming 'incurs fines'.",
+        "B: Correct—verifies both A (full-time) and Not-C (>1 mile) to deduce B (vouchers).",
+        "C: Omits verifying the base condition ('three years' experience').",
+        "D: Infers category membership ('was a journalist') instead of the protected consequence."
+      ],
+      "examTakeaway": "When matching 'All A are B unless C', verify BOTH that X is A AND that exception C did not happen."
+    }
+  },
+  {
+    "id": "pr-03",
+    "cardNumber": 30,
+    "cardType": "drill",
+    "topic": "Parallel Reasoning",
+    "title": "Static Textbooks in a Changing World",
+    "difficulty": "Advanced",
+    "slide1_hook": {
+      "headline": "Mismatched Assumptions Across Time",
+      "claimText": "Traditional schooling treats textbook facts as finished products crafted by societies that assumed tomorrow would mirror yesterday. Yet modern schools deploy that static inheritance to prepare students for a society defined by rapid change. Thus, the method contradicts the very future it claims to serve.",
+      "ruleTakeaway": "Abstract the structural irony: Tool T assumes stability (P -> P), applied to achieve Goal G under constant change (~P).",
+      "wordCount": 47
+    },
+    "slide2_spotlight": {
+      "contextText": "Strip away 'schools' and 'textbooks' to see the temporal premise-condition mismatch:",
+      "highlightedSegment": "built for static conditions, deployed to succeed under constant change",
+      "qualifierTag": "Condition-Goal Mismatch",
+      "focusNote": "Look for a parallel argument where an unchanging tool built for a predictable past is used to navigate unpredictable future change.",
+      "wordCount": 33
+    },
+    "slide3_drill": {
+      "questionId": "feed-pr-03",
+      "stem": "Which argument displays the closest parallel reasoning pattern?",
+      "options": [
+        "All architects must master structural physics before designing bridges, so civil engineers always study calculus.",
+        "Rigid building codes written when regional rainfall never varied are used to protect coastal towns from erratic future storms.",
+        "Because modern textbooks cost more than older editions, school districts must increase annual library budgets.",
+        "Progressive educators sometimes reject rote drills, therefore students who memorize dates cannot think critically."
+      ],
+      "correctIndex": 1,
+      "topic": "Parallel Reasoning",
+      "trapLabels": [
+        "Trap: Necessary Condition Chain",
+        "Correct Answer",
+        "Trap: Practical Cost Inference",
+        "Trap: Illicit Negation"
+      ]
+    },
+    "slide4_breakdown": {
+      "logicSummary": "Adapted from Paper 2's 'Traditional vs. Progressive Education': both arguments expose a paradox where rules designed for an unchanging past are relied upon to prepare for a dynamic, changing future.",
+      "primaryTrap": "Trap: Practical Cost Inference (Option C introduces an unrelated resource-budgeting jump rather than a static-vs-change mismatch).",
+      "optionBreakdowns": [
+        "A: Describes a valid prerequisite link rather than a temporal tool-environment mismatch.",
+        "B: Correct—static rules built for stable past weather are used to prepare for volatile future storms.",
+        "C: Shifts to financial cost without any structural paradox between past stability and future change.",
+        "D: Commits an unsupported leap from rejecting rote drills to condemning all memorization."
+      ],
+      "examTakeaway": "In non-formal Parallel Reasoning, match the exact core tension—here, applying static past blueprints to dynamic future conditions."
+    }
+  }
+]
